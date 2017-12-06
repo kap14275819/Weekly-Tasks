@@ -1,53 +1,56 @@
 #include <iostream>
-#include <fstream>
-#include <cstdlib>
-#include <string>
-#include <map>
-#include <vector>
-#include <sstream>
 
 using namespace std;
 
-vector<string> split(string value, char token);
-
 int main() {
-  int maxCoords = 4;
-  int minCoords = 2;
-  string shape[maxCoords - 1]; // [0, 1, 2, 3, 4]
-  
-  for (int i = 0; i < maxCoords; i++ ) {
-    cout << "Please enter next Coordinate (x,y):";
-    string o;
-    cin >> o;
-    shape[i] = o;
-    if (i == minCoords) { // i == 3?
-      string option;
-      cout << "Continue ? (y/N)";
-      cin >> option;
-      if(option == "Y" || option == "y"){
-         continue;
-      } else {
-        break;
-      }
-    }
-  }
-  
-  for(int i=0; i < maxCoords; i++){
-    cout << shape[i] << endl;
-  }
-  
-  return 0;
-}
-
-vector<string> split(string value, char token) {
-	stringstream ss(value);
-	vector<string> vect;
-
-	while (ss.good()) {
-		string substr;
-		getline(ss, substr, token);
-		vect.push_back(substr);
+	int x1, y1, x2, y2, x3, y3, x4, y4;
+	int count = 1;
+	
+	char end;
+	cout << "1st Coord (X)= ";
+	cin >> x1;
+	cout << "1st Coord (Y)= ";
+	cin >> y1;
+	cout << "\nNext(y/n)? \n";
+	cin >> end;
+	
+	if(end == 'y') {
+		cout << "2nd Coord (X)= ";
+		cin >> x2;
+		cout << "2nd Coord (Y)= ";
+		cin >> y2;
+		count++;
+	}
+	
+	cout << "\nNext(y/n)? \n";
+	cin >> end;
+	
+	if(end == 'y') {
+		cout << "3rd Coord (X)= ";
+		cin >> x3;
+		cout << "3rd Coord (Y)= ";
+		cin >> y3;
+		count++;
+	}
+	
+	cout << "\nNext(y/n)? \n";
+	cin >> end;
+	
+	if(end == 'y') {
+		cout << "4th Coord (X)= ";
+		cin >> x4;
+		cout << "4th Coord (Y)= ";
+		cin >> y4;
+		count++;
+	}
+	
+	if(count==3 && (x1 != x2 && x1 != x3 && x2 != x3) || (y1 != y2 && y1 != y3 && y2 != y3)) {
+		cout << "TRIANGLE\n";
+	}
+	
+	if(count == 4 && (x1 != x2 && x1 != x3 && x1 != x4 && x2 != x3 && x3 !=x4) || (y1 != y2 && y1 != y3 && y1 != y4 && y2 != x3 && y3 !=y4)) {
+		cout << "SQUARE\n";
 	}
 
-	return vect;
+	return 0;
 }
