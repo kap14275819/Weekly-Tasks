@@ -36,3 +36,4 @@
 #### What is the probability of a random interger being divisible by 10?
 #### Range 1-100 / Total = 10/100 = 1/10
 
+
