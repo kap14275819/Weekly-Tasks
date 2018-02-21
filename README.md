@@ -76,3 +76,4 @@
 #### ∫rightlefthigher - lowerdx
 #### In some cases the ‘side’ boundaries are redundant or only implied. For example, the question might be to find the area between the curves y=2−xy=2−x and y=x2y=x2. What is implied here is that these two curves themselves enclose one or more finite pieces of area, without the need of any ‘side’ boundaries of the form x=ax=a. First, we need to see where the two curves intersect, by solving 2−x=x22−x=x2: the solutions are x=−2,1x=−2,1. So we infer that we are supposed to find the area from x=−2x=−2 to x=1x=1, and that the two curves close up around this chunk of area without any need of assistance from vertical lines x=ax=a. We need to find which curve is higher: plugging in the point 00 between −2−2 and 11, we see that y=2−xy=2−x is higher. Thus, the desired integral is
 #### area=∫1−2(2−x)−x2dx.
+https://mathinsight.org/area_definite_integrals_refresher
