@@ -41,20 +41,20 @@
 #### First we need more notation. Suppose that we have a function f whose integral is another function F:
 #### ![formula1](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%201.png)
 #### Let a,b be two numbers. Then the definite integral of f with limits a,b is
-#### ∫f(x)dx=F(b)−F(a)
+#### ![formula2](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%202.png)
 #### The left-hand side of this equality is just notation for the definite integral. The use of the word ‘limit’ here has little to do with our earlier use of the word, and means something more like ‘boundary’, just like it does in more ordinary English.
 #### A similar notation is to write
-#### [g(x)]ba=g(b)−g(a)
-#### #### for any function gg. So we could also write
-#### ∫baf(x)dx=[F(x)]ba
+#### ![formula3](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%203.png)
+#### for any function g. So we could also write
+#### ![formula4](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%204.png)
 #### For example,
-#### ∫50x2dx=[x33]50=53−033=1253
+#### ![formula5](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%205%20.png)
 #### As another example,
-#### ∫323x+1dx=[3x22+x]32=(3/322+3)−(3/222+2)=212
+#### ![formula6](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%206.png)
 #### All the other integrals we had done previously would be called indefinite integrals since they didn't have ‘limits’ a,ba,b. So a definite integral is just the difference of two values of the function given by an indefinite integral. That is, there is almost nothing new here except the idea of evaluating the function that we get by integrating.
 #### But now we can do something new: compute areas:
 #### For example, if a function ff is positive on an interval [a,b][a,b], then
-#### ∫baf(x)dx= area between graph and x-axis, between x=a and x=b
+#### ![formula7](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%207.png)
 #### It is important that the function be positive, or the result is false.
 #### For example, since y=x2y=x2 is certainly always positive (or at least non-negative, which is really enough), the area ‘under the curve’ (and, implicitly, above the xx-axis) between x=0x=0 and x=1x=1 is just
 #### ∫10x2dx=[x33]10=13−033=13
