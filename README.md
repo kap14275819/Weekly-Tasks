@@ -33,6 +33,7 @@
 #### Infinite Probability means that any section of time and space can be divided into an infinite number of smaller and smaller pieces. For example, 10 feet can be subdivided into 1 foot sections, 0.1 foot sections, 0.00001 foot sections…and so on. However, infinite divisibility in probability theory has a more defined meaning.
 #### A probability distribution is infinitely divisible if it can be written as the sum of n independent and identically distributed random variables for any positive integer n.
 
+### Formula
 ### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula%20event.jpg)
 
 ### Examples
