@@ -49,6 +49,8 @@
 
 ### ![Vector](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/vector.png)
 
+#### Vectors play an important role in physics: the velocity and acceleration of a moving object and the forces acting on it can all be described with vectors. Many other physical quantities can be usefully thought of as vectors. Although most of them do not represent distances (except, for example, position or displacement), their magnitude and direction can still be represented by the length and direction of an arrow. The mathematical representation of a physical vector depends on the coordinate system used to describe it. Other vector-like objects that describe physical quantities and transform in a similar way under changes of the coordinate system include pseudovectors and tensors.
+
 ### Script to determine shapes using vectors
 ```html 
 <html>
@@ -157,6 +159,6 @@ function shape(){
 ```
 
 ## Integral Calculus
-
+#### 
 
 ## Rate of Change
