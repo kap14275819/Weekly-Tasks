@@ -179,3 +179,24 @@ function shape(){
 #### We can now calculate the area of the curve and infinite rectangles to find the area. We do this by multiplying the function by the derivative of the function. The formula of the area of one of the rectangles is already known, this means that we can calculate this much easier.
 
 ## Rate of Change
+
+#### The rate of change means the average rate at which one quantity is changing with respect to something else changing.
+#### There are already some familiar average rate of change calculations such as:
+#### 1. Miles per gallon-calculated by dividing the number of miles by the number of gallons used.
+#### 2. Cost per kilowatt-calculated by dividing the cost of the electricity by the number of kilowatts used.
+#### 3. Miles per hour-calculated by dividing the number of miles travelled by the number of hours it takes to travel them.
+
+### Average Rate of Change function
+
+#### In general, an average rate a change function is a process that calculates the the amount of change in one item divided by the corresponding amount of change in another. Using function notation, we can define the Average rate of Change of a function from a to x:
+
+#### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/rate%20of%20change.png)
+
+### Average Rate of Change function
+
+#### F(x) = x2
+#### Rate of change from 1 to 3
+#### (32  -12) / (3 -1) = (9 –1) / (3 –1) = 8/2 = 4
+#### F(x) = 2x+3
+#### Rate of change from 10 to 100
+#### (2*100 + 3) –(2*10 + 3) / (100 –10) = 180 / 90 = 2
