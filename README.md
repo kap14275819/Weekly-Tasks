@@ -49,7 +49,7 @@
 
 ### ![Vector](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/vector.png)
 
-### Script determine shapes using vectors
+### Script to determine shapes using vectors
 ```html 
 <html>
 <body>
