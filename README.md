@@ -172,12 +172,10 @@ function shape(){
 #### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/main%20formulas.JPG)
 #### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula.png)
 
-The first symbol ∫, represents intergration within the formula, this is where the intergral is found. The opposite of this is derivation.
+#### The symbol ∫ represents intergration within the formula, this is where the intergral is found. The opposite of this is derivation.
 
-The two letters a and b are both placed on either side of the ∫ symbol as the calculations are coming from going from a to b. The next symbol dx shows the differential of the variable x, this shows the variable of integration is also x. The area is found from the x axis from the curve, this means the integral of the function must be x
+#### The two letters a and b are both placed on either side of the ∫ symbol as the calculations are going from a to b. The two letters that are both together is dx, this shows the differential of the variable which is x, this shows the variable of integration is also x. The area is found from the x axis from the curve, this means the integral of the function must be x.
 
-The second part is using a derirative, this is a way of simplifying the function, in this case our complex function is the curved line that we are trying to find the area. The Higher Derirative is the way of showing the curved line as a straight line instead. If x is infinite then it means that the curve which is an infinite can be divided into segments and by doing this, we can solve the individual parts to make the sum.
-
-We can now calculate the area of the curve and infinite rectangles to find the area. We do this by multiplying the function by the derirative of the function. The formula of the area of one of the rectangles is already know, this means that we can calculate this much easier.
+#### We can now calculate the area of the curve and infinite rectangles to find the area. We do this by multiplying the function by the derivative of the function. The formula of the area of one of the rectangles is already known, this means that we can calculate this much easier.
 
 ## Rate of Change
