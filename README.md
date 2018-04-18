@@ -159,12 +159,25 @@ function shape(){
 ```
 
 ## Integral Calculus
-#### Integration can be used to find areas, volumes, central points and many useful things. But it is easiest to start with finding the area under the curve of a function like this:
+#### Integration can be used to find areas, volumes, central points and many useful things. When there is a curve that is needed to be calculated, it can be done through using Integral Calculus, when looking at complex shapes that are curved, normal methods of working out the area inside the shape cannot be used, instead we use this method.
+
+#### In order to complete this calculation, there cannot be one area to look at but several, so what we do is create multiple rectangles within the area in order to figure out each one, by doing so we will be able to figure out the area.
 
 ### Area
-#### ![integ](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/integ.png)
+#### ![area](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/integ.png)
+#### ![arearec](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/area%20rectangle.JPG)
+
+### Formulas
+#### Here are some forumlas used for figuring out Integral Calculus
+#### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/main%20formulas.JPG)
 #### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula.png)
 
+The first symbol ∫, represents intergration within the formula, this is where the intergral is found. The opposite of this is derivation.
 
+The two letters a and b are both placed on either side of the ∫ symbol as the calculations are coming from going from a to b. The next symbol dx shows the differential of the variable x, this shows the variable of integration is also x. The area is found from the x axis from the curve, this means the integral of the function must be x
+
+The second part is using a derirative, this is a way of simplifying the function, in this case our complex function is the curved line that we are trying to find the area. The Higher Derirative is the way of showing the curved line as a straight line instead. If x is infinite then it means that the curve which is an infinite can be divided into segments and by doing this, we can solve the individual parts to make the sum.
+
+We can now calculate the area of the curve and infinite rectangles to find the area. We do this by multiplying the function by the derirative of the function. The formula of the area of one of the rectangles is already know, this means that we can calculate this much easier.
 
 ## Rate of Change
