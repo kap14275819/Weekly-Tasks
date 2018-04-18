@@ -47,7 +47,7 @@
 ## Vectors
 #### A vector is a quantity or phenomenon that has two independent properties: magnitudeand direction. The term also denotes the mathematical or geometrical representation of such a quantity.
 
-### ![Vector](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/vector.png)
+### ![Vector](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/vector.png)
 
 #### Vectors play an important role in physics: the velocity and acceleration of a moving object and the forces acting on it can all be described with vectors. Many other physical quantities can be usefully thought of as vectors. Although most of them do not represent distances (except, for example, position or displacement), their magnitude and direction can still be represented by the length and direction of an arrow. The mathematical representation of a physical vector depends on the coordinate system used to describe it. Other vector-like objects that describe physical quantities and transform in a similar way under changes of the coordinate system include pseudovectors and tensors.
 
@@ -161,6 +161,10 @@ function shape(){
 ## Integral Calculus
 #### Integration can be used to find areas, volumes, central points and many useful things. But it is easiest to start with finding the area under the curve of a function like this:
 
-#### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/integral-area.gif)
+### Area
+#### ![integ](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/integ.png)
+#### ![formula](https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/Forumlas/formula.png)
+
+
 
 ## Rate of Change
