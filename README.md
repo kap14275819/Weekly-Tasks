@@ -161,6 +161,6 @@ function shape(){
 ## Integral Calculus
 #### Integration can be used to find areas, volumes, central points and many useful things. But it is easiest to start with finding the area under the curve of a function like this:
 
-#### !formula()
+#### !formula(https://github.com/kap14275819/Weekly-Tasks-Maths/blob/master/integral-area.gif)
 
 ## Rate of Change
